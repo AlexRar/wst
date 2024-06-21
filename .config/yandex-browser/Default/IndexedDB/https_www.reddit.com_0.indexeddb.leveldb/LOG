@@ -1,7 +1,0 @@
-2024/06/20-02:43:31.322 2692 File /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb is locked for recovering successfully
-2024/06/20-02:43:31.322 2692 Reusing MANIFEST /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/20-02:43:31.323 2692 Recovering log #3
-2024/06/20-02:43:31.323 2692 Reusing old log /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
-2024/06/20-02:44:03.324 2691 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb, waiting for background work finished
-2024/06/20-02:44:03.324 2691 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb, background work finished
-2024/06/20-02:44:03.324 2691 File /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb unlocked successfully

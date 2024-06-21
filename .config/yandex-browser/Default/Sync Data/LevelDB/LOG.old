@@ -1,4 +1,0 @@
-2024/06/21-02:05:21.085 844 File /home/wst/.config/yandex-browser/Default/Sync Data/LevelDB is locked for recovering successfully
-2024/06/21-02:05:21.087 844 Reusing MANIFEST /home/wst/.config/yandex-browser/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/06/21-02:05:21.088 844 Recovering log #35
-2024/06/21-02:05:21.090 844 Reusing old log /home/wst/.config/yandex-browser/Default/Sync Data/LevelDB/000035.log 

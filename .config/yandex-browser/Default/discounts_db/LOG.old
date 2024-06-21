@@ -1,4 +1,0 @@
-2024/06/21-02:05:21.106 845 File /home/wst/.config/yandex-browser/Default/discounts_db is locked for recovering successfully
-2024/06/21-02:05:21.106 845 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/discounts_db, waiting for background work finished
-2024/06/21-02:05:21.106 845 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/discounts_db, background work finished
-2024/06/21-02:05:21.106 845 File /home/wst/.config/yandex-browser/Default/discounts_db unlocked successfully

@@ -1,4 +1,0 @@
-2024/06/21-02:25:06.353 97a File /home/wst/.config/yandex-browser/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb is locked for recovering successfully
-2024/06/21-02:25:06.354 97a Reusing MANIFEST /home/wst/.config/yandex-browser/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/MANIFEST-000001
-2024/06/21-02:25:06.354 97a Recovering log #3
-2024/06/21-02:25:06.364 97a Reusing old log /home/wst/.config/yandex-browser/Default/IndexedDB/chrome-extension_cjpalhdlnbpafiamejdnhcphjbkeiagm_0.indexeddb.leveldb/000003.log 

@@ -1,1 +1,0 @@
-try{importScripts("/background/bg.js")}catch{}

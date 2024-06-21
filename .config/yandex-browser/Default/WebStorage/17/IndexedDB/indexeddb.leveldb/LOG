@@ -1,6 +1,0 @@
-2024/06/19-16:55:11.600 5db File /home/wst/.config/yandex-browser/Default/WebStorage/17/IndexedDB/indexeddb.leveldb is locked for recovering successfully
-2024/06/19-16:55:11.600 5db Creating DB /home/wst/.config/yandex-browser/Default/WebStorage/17/IndexedDB/indexeddb.leveldb since it was missing.
-2024/06/19-16:55:11.613 5db Reusing MANIFEST /home/wst/.config/yandex-browser/Default/WebStorage/17/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/06/19-16:55:43.271 5da Deletion DBImpl for /home/wst/.config/yandex-browser/Default/WebStorage/17/IndexedDB/indexeddb.leveldb, waiting for background work finished
-2024/06/19-16:55:43.271 5da Deletion DBImpl for /home/wst/.config/yandex-browser/Default/WebStorage/17/IndexedDB/indexeddb.leveldb, background work finished
-2024/06/19-16:55:43.271 5da File /home/wst/.config/yandex-browser/Default/WebStorage/17/IndexedDB/indexeddb.leveldb unlocked successfully

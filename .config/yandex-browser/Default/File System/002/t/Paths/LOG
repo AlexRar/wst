@@ -1,7 +1,0 @@
-2024/06/21-01:34:38.240 5e7 File /home/wst/.config/yandex-browser/Default/File System/002/t/Paths is locked for recovering successfully
-2024/06/21-01:34:38.240 5e7 Reusing MANIFEST /home/wst/.config/yandex-browser/Default/File System/002/t/Paths/MANIFEST-000001
-2024/06/21-01:34:38.240 5e7 Recovering log #3
-2024/06/21-01:34:38.241 5e7 Reusing old log /home/wst/.config/yandex-browser/Default/File System/002/t/Paths/000003.log 
-2024/06/21-01:44:38.241 5c2 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/File System/002/t/Paths, waiting for background work finished
-2024/06/21-01:44:38.241 5c2 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/File System/002/t/Paths, background work finished
-2024/06/21-01:44:38.241 5c2 File /home/wst/.config/yandex-browser/Default/File System/002/t/Paths unlocked successfully
