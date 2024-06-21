@@ -1,0 +1,4 @@
+2024/06/21-02:05:22.949 821 File /home/wst/.config/yandex-browser/Default/coupon_db is locked for recovering successfully
+2024/06/21-02:05:22.949 821 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/coupon_db, waiting for background work finished
+2024/06/21-02:05:22.949 821 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/coupon_db, background work finished
+2024/06/21-02:05:22.949 821 File /home/wst/.config/yandex-browser/Default/coupon_db unlocked successfully

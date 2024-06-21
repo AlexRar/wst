@@ -1,0 +1,10 @@
+2024/06/19-16:10:24.694 493d File /home/wst/.config/yandex-browser/Default/IndexedDB/https_tldv.io_0.indexeddb.leveldb is locked for recovering successfully
+2024/06/19-16:10:24.694 493d Creating DB /home/wst/.config/yandex-browser/Default/IndexedDB/https_tldv.io_0.indexeddb.leveldb since it was missing.
+2024/06/19-16:10:24.706 493d Reusing MANIFEST /home/wst/.config/yandex-browser/Default/IndexedDB/https_tldv.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-16:10:24.960 493b Level-0 table #5: started
+2024/06/19-16:10:24.964 493b Level-0 table #5: 1918 bytes OK
+2024/06/19-16:10:24.971 493b Delete type=0 #3
+2024/06/19-16:10:24.971 493b Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/19-16:10:59.421 493b Deletion DBImpl for /home/wst/.config/yandex-browser/Default/IndexedDB/https_tldv.io_0.indexeddb.leveldb, waiting for background work finished
+2024/06/19-16:10:59.421 493b Deletion DBImpl for /home/wst/.config/yandex-browser/Default/IndexedDB/https_tldv.io_0.indexeddb.leveldb, background work finished
+2024/06/19-16:10:59.421 493b File /home/wst/.config/yandex-browser/Default/IndexedDB/https_tldv.io_0.indexeddb.leveldb unlocked successfully

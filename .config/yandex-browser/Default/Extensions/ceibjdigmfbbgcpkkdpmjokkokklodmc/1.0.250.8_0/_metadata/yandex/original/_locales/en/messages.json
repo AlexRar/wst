@@ -1,0 +1,11 @@
+{
+"name":{"message":"VK Styles - Themes for vk.com"},
+"description":{"message":"Install themes for Vkontakte in one click, or adjust colors, backgrounds, fonts and more as you prefer in the settings menu."},
+"on":{"message":"turn on theme"},
+"off":{"message":"turn off theme"},
+"reset":{"message":"Default theme settings"},
+"appReset":{"message":"App reset"},
+"err":{"message":"Error"},
+"eye":{"message":"Activate dropper"},
+"lang":{"message":"0"}
+}

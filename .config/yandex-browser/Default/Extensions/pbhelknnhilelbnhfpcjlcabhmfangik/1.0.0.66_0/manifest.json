@@ -1,0 +1,31 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "js": [ "consts.js", "nativeenvironment.js", "permission.js", "contentscript.js" ],
+      "matches": [ "http://*/*", "https://*/*", "file:///*/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "host_permissions": [ "*://*/" ],
+   "icons": {
+      "128": "logo.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApvzXihyzpwu9DKuae2/JOwVCRFSk8GKxwQRnGrU1DbKDp3ZUA4viKcsCKcL5Wm+Pyq8jEBCLIDLxNPOiW0r91bvDB+Nw3X+sEd1xt62biFLKdFfJTmcXQv9A9r4rfC4N8eCohicbLXQg+0pVontS/UZpUML7KKik3MSZRthKWHOCgxg8uz9M+ewQurozknJuCRRWRiYKNsrDvE8PjJnuPwtaQJDGIc3OEVO6xnrG0boBtGiVQfzIRhFY+iJFZBizOQsPo5yAFZzTXcttFRnxZRaMzvRe3UJIqYlYBkdUM1R8sgVv4ir0+1Q6F4hkUxdJcB3ldpiF8cvhDiWiBuM/EQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "88",
+   "name": "__MSG_appName__",
+   "offline_enabled": false,
+   "optional_permissions": [ "desktopCapture" ],
+   "options_page": "options.html",
+   "permissions": [ "nativeMessaging", "storage", "tabs", "scripting", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.66",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "manifest.json" ]
+   } ]
+}

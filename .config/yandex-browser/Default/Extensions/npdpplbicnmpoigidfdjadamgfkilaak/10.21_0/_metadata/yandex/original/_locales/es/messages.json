@@ -1,0 +1,626 @@
+{
+  "extName": {
+    "message": "SaveFrom.net helper"
+  },
+  "extDescription": {
+    "message": "Descargas desde YouTube, Facebook, VK.com y 40+ sitios en un sólo clic."
+  },
+  "extNameLite": {
+    "message": "SaveFrom.net helper lite"
+  },
+  "extDescriptionLite": {
+    "message": "Descargas desde Facebook, VK.com y 40+ sitios en un sólo clic."
+  },
+  "lang": {
+    "message": "es"
+  },
+  "titleDefault": {
+    "message": "SaveFrom.net helper"
+  },
+  "titleDesabled": {
+    "message": "SaveFrom.net helper deshabilitado"
+  },
+  "menuEnable": {
+    "message": "Habilitar"
+  },
+  "menuDisable": {
+    "message": "Deshabilitar"
+  },
+  "showButton": {
+    "message": "Mostrar botón de extensión"
+  },
+  "copy": {
+    "message": "Copiar"
+  },
+  "download": {
+    "message": "Descargar"
+  },
+  "downloadTitle": {
+    "message": "Haga clic en el enlace mientras presiona la tecla Alt/Opción o Ctrl para descargar el archivo."
+  },
+  "noLinksFound": {
+    "message": "No se han encontrado enlaces"
+  },
+  "partnersLinksOnly": {
+    "message": "No se encontraron enlaces, utiliza productos de afiliados"
+  },
+  "more": {
+    "message": "Más"
+  },
+  "close": {
+    "message": "Cerrar"
+  },
+  "kbps": {
+    "message": "kbps"
+  },
+  "withoutAudio": {
+    "message": "sin audio"
+  },
+  "size": {
+    "message": "tamaño"
+  },
+  "subtitles": {
+    "message": "Subtítulos"
+  },
+  "playlist": {
+    "message": "Lista de reproducción"
+  },
+  "filelist": {
+    "message": "Lista de archivos"
+  },
+  "downloadWholePlaylist": {
+    "message": "Descargar toda la lista de reproducción"
+  },
+  "getFileSizeTitle": {
+    "message": "Obtener tamaño de archivo"
+  },
+  "getFileSizeFailTitle": {
+    "message": "No se pudo obtener el tamaño del archivo. Por favor, inténtelo de nuevo."
+  },
+  "lmButtonTitle": {
+    "message": "Obtener un enlace directo"
+  },
+  "downloadFromCurrentPage": {
+    "message": "Ir a SaveFrom.net"
+  },
+  "updateLinks": {
+    "message": "Actualizar enlaces"
+  },
+  "updateLinksNotification": {
+    "message": "Enlaces actualizados"
+  },
+  "downloadMP3Files": {
+    "message": "Descargar archivos de audio"
+  },
+  "downloadPlaylist": {
+    "message": "Descargar una lista de reproducción"
+  },
+  "downloadPhotos": {
+    "message": "Descargar imágenes"
+  },
+  "installFullVersion": {
+    "message": "Instalar la versión completa"
+  },
+  "disable": {
+    "message": "Deshabilitar"
+  },
+  "showOptions": {
+    "message": "Ajustes"
+  },
+  "reportBug": {
+    "message": "Informar sobre un problema"
+  },
+  "openPoll": {
+    "message": "Mejorar"
+  },
+  "disableModule": {
+    "message": "Desactivar en este sitio web"
+  },
+  "enableModule": {
+    "message": "Activar en este sitio web"
+  },
+  "enableDisableModule": {
+    "message": "Activ./Desactiv. en esta web"
+  },
+  "showHideButton": {
+    "message": "Mostrar/ocultar botón extens"
+  },
+  "updateTo": {
+    "message": "Actualizar a la %d"
+  },
+  "aboutPage": {
+    "message": "Acerca de"
+  },
+  "aboutTitle": {
+    "message": "SaveFrom.net Helper"
+  },
+  "aboutVersion": {
+    "message": "Versión"
+  },
+  "aboutDescription": {
+    "message": "Ayuda a los usuarios a obtener enlaces directos para descargar desde más de 40 sitios web, incluidos Dailymotion.com, YouTube.com, VK.com y otros."
+  },
+  "aboutDescriptionLite": {
+    "message": "Ayuda a los usuarios a obtener enlaces directos para descargar desde más de 40 sitios web, incluidos Dailymotion.com, VK.com y otros."
+  },
+  "aboutSupported": {
+    "message": "Recursos admitidos"
+  },
+  "homePage": {
+    "message": "Página de inicio"
+  },
+  "optionsTitle": {
+    "message": "SaveFrom.net Helper - Preferencias"
+  },
+  "optionsHandleLinks": {
+    "message": "Manejar enlaces"
+  },
+  "optionsFfmpegEnabled": {
+    "message": "Conversor para ffmpeg (Alpha version)"
+  },
+  "optionsMediaHostings": {
+    "message": "A servidores multimedia"
+  },
+  "optionsModules": {
+    "message": "Módulos"
+  },
+  "optionsYoutube": {
+    "message": "YouTube"
+  },
+  "optionsYTHideLinks": {
+    "message": "Ocultar enlaces"
+  },
+  "optionsDailymotion": {
+    "message": "Dailymotion"
+  },
+  "optionsVimeo": {
+    "message": "Vimeo"
+  },
+  "optionsFacebook": {
+    "message": "Facebook"
+  },
+  "optionsSoundcloud": {
+    "message": "SoundCloud"
+  },
+  "optionsVkontakte": {
+    "message": "VK"
+  },
+  "optionsOdnoklassniki": {
+    "message": "Odnoklassniki"
+  },
+  "optionsMailru": {
+    "message": "Moy Mir"
+  },
+  "optionsInstagram": {
+    "message": "Instagram"
+  },
+  "optionsRutube": {
+    "message": "Rutube"
+  },
+  "optionsTiktok": {
+    "message": "Tiktok"
+  },
+  "optionsBitrate": {
+    "message": "Mostrar velocidad de bits instantáneamente"
+  },
+  "optionsSovetnikEnabled": {
+    "message": "Consejero"
+  },
+  "optionsShowUmmyInfo": {
+    "message": "Muestra consejos para Ummy Video Downloader"
+  },
+  "optionsGmNativeDownload": {
+    "message": "Móudlo de descarga avanzada"
+  },
+  "optionsShowUmmyBtn": {
+    "message": "Mostrar el botón Ummy"
+  },
+  "optionsAviaBarEnabled": {
+    "message": "Búsqueda de vuelos baratos"
+  },
+  "optionsSaveAsDialog": {
+    "message": "Preguntarme siempre dónde guardar los archivos"
+  },
+  "optionsDirectory": {
+    "message": "El nombre del directorio en el cual se guardarán los archivos de uno de los formatos enumerados."
+  },
+  "optionsFormats": {
+    "message": "Especifica, separados por un espacio, los formatos de archivo que se guardarán en el directorio especificado"
+  },
+  "menuDownloadFromCurrentPage": {
+    "message": "Descargar archivos de la página actual usando SaveFrom.net"
+  },
+  "menuUpdateLinks": {
+    "message": "Pulse si no aparece el botón Descargar"
+  },
+  "menuDownloadMP3Files": {
+    "message": "Descargar todos los archivos de audio de la página actual"
+  },
+  "menuDownloadPlaylist": {
+    "message": "Genera y descarga la lista de reproducción que consiste en enlaces a archivos de audio"
+  },
+  "menuDownloadPhotos": {
+    "message": "Descargar todas las imágenes encontradas en la página actual"
+  },
+  "menuReportBug": {
+    "message": "Háganos saber si tiene algún problema"
+  },
+  "menuShowOptions": {
+    "message": "ACTIVAR/DESACTIVAR recursos admitidos y opciones del Helper"
+  },
+  "menuEnableExtension": {
+    "message": ""
+  },
+  "menuOpenPoll": {
+    "message": "Trabajamos duro para mejorar. ¡Échenos una mano!"
+  },
+  "quality": {
+    "message": "Calidad"
+  },
+  "qualityNote": {
+    "message": "Si no se elige ninguna calidad, se descargará el mejor vídeo disponible."
+  },
+  "filelistTitle": {
+    "message": "La lista de los archivos encontrados"
+  },
+  "filelistInstruction": {
+    "message": "['Para descargar todos los archivos, copie la lista de enlaces y péguela en el ',{a:{href:'http://en.wikipedia.org/wiki/Download_manager',text:'gestor de descargas'}},'. Si no tiene instalado un gestor de descargas, le recomendamos que instale ',{a:{href:'http://www.freedownloadmanager.org/',text:'Free Download Manager'}},'.']"
+  },
+  "playlistTitle": {
+    "message": "Lista de reproducción"
+  },
+  "playlistInstruction": {
+    "message": "Para reproducir la lista de reproducción guardada, puede abrirla ahora en el reproductor de música."
+  },
+  "ummySfTitle": {
+    "message": "HD o MP3"
+  },
+  "ummyMenuItem": {
+    "message": "[{span:{}},' via Ummy']"
+  },
+  "ummyMenuInfo": {
+    "message": "[{p:{text:'Instale Ummy Video Downloader y descargue sus vídeos favoritos en HD o MP3.'}},{p:{class:'center',append:[{a:{class:'green-btn-2 arrow',href:'{url}',target:'_blank',text:'Descargar'}}]}},{p:{append:['Después de la instalación, se iniciará una descarga automáticamente siempre que haga clic en ',{img:{src:'#'}}]}}]"
+  },
+  "warningPopupTitle": {
+    "message": "Compruebe la configuración de su navegador"
+  },
+  "warningPopupDesc": {
+    "message": "La opción \"Preguntarme siempre dónde guardar los archivos\" debe estar desactivada."
+  },
+  "readMore": {
+    "message": "Más"
+  },
+  "noWarning": {
+    "message": "No notificar"
+  },
+  "cancel": {
+    "message": "Cancelar"
+  },
+  "continue": {
+    "message": "Continuar"
+  },
+  "beforeDownloadPopupWarn": {
+    "message": "¡Advertencia! La descarga no se puede cancelar o suspender."
+  },
+  "vkInfo": {
+    "message": "Información"
+  },
+  "vkInfoTitle": {
+    "message": "Tamaño de archivo y velocidad de bits"
+  },
+  "vkMp3LinksNotFound": {
+    "message": "No se han encontrado enlaces a archivos MP3"
+  },
+  "vkPhotoLinksNotFound": {
+    "message": "No se han encontrado imágenes"
+  },
+  "vkDownloadPhotoAlbum": {
+    "message": "Descargar álbum"
+  },
+  "vkDownloadAllPhotoAlbums": {
+    "message": "Descargar todos los álbums"
+  },
+  "vkFoundPhotos": {
+    "message": "Imágenes encontradas"
+  },
+  "vkNotAvailablePhotos": {
+    "message": "%d imágenes están temporalmente no disponibles"
+  },
+  "vkFoundLinks": {
+    "message": "Enlaces encontrados"
+  },
+  "vkFoundOf": {
+    "message": "de"
+  },
+  "vkShowAs": {
+    "message": "Mostrar como"
+  },
+  "vkListOfLinks": {
+    "message": "Lista de enlaces"
+  },
+  "vkListOfLinksInstruction": {
+    "message": "['Para descargar todas las imágenes, copie la lista de enlaces y péguela en el ',{a:{href:'http://en.wikipedia.org/wiki/Download_manager',text:'gestor de descargas'}},'. Si no tiene instalado un gestor de descargas, le recomendamos que instale ',{a:{href:'http://www.freedownloadmanager.org/',text:'Free Download Manager'}},'.']"
+  },
+  "vkTableOfThumbnails": {
+    "message": "Tabla de miniaturas"
+  },
+  "vkListOfPhotos": {
+    "message": "Lista de imágenes"
+  },
+  "vkListOfPhotosInstruction": {
+    "message": "Haga clic en la imagen para descargarla."
+  },
+  "vkKbps": {
+    "message": "kbps"
+  },
+  "vkFileSizeByte": {
+    "message": "B"
+  },
+  "vkFileSizeKByte": {
+    "message": "kB"
+  },
+  "vkFileSizeMByte": {
+    "message": "MB"
+  },
+  "vkFileSizeGByte": {
+    "message": "GB"
+  },
+  "vkFileSizeTByte": {
+    "message": "TB"
+  },
+  "vkDownloadFromYoutube": {
+    "message": "['Descargar: abra ',{a:{href:'{url}',text:'la página del vídeo'}},' y pulse el botón \"Descargar\" sobre el reproductor']"
+  },
+  "vkFoundFiles": {
+    "message": "Archivos encontrados: %d"
+  },
+  "shareIn": {
+    "message": "Compartir en %w"
+  },
+  "socialDesc": {
+    "message": "SaveFrom.net helper le permite descargar archivos desde YouTube.com, Facebook.com, VK.com y más de 40 sitios distintos con tan sólo un clic y gratis"
+  },
+  "ummyTooltipConfirm": {
+    "message": "['¿Ya has instalado',{br:{}},{img:{}},' Ummy Video Downloader antes?']"
+  },
+  "yes": {
+    "message": "Sí"
+  },
+  "no": {
+    "message": "No"
+  },
+  "tooltipHide": {
+    "message": "No mostrar de nuevo este mensaje"
+  },
+  "sendToButton": {
+    "message": "Al teléfono"
+  },
+  "sendToLinkGoBack": {
+    "message": "Volver a la descarga del video"
+  },
+  "sendToTextOr": {
+    "message": "o"
+  },
+  "sendToLoginTitle": {
+    "message": "¡Transfiere el video directamente a tu móvil!"
+  },
+  "sendToLoginText": {
+    "message": "Por favor, inicia sesión con Google para transferir el video seleccionado"
+  },
+  "sendToLoginButton": {
+    "message": "Iniciar sesión"
+  },
+  "sendToEmailTitle": {
+    "message": "¡Gracias por tu interés!"
+  },
+  "sendToEmailText": {
+    "message": "El trabajo en la función está en progreso. Por favor, envíanos tu correo electrónico y te enviaremos una invitación tan pronto como la función esté lista."
+  },
+  "sendToEmailButton": {
+    "message": "Enviar correo electrónico"
+  },
+  "sendToEmailTextComplete": {
+    "message": "¡Gracias!"
+  },
+  "sendToEmailInputError": {
+    "message": "Error"
+  },
+  "sendToEmailInputPlaceholder": {
+    "message": "Escribe tu correo electrónico aquí"
+  },
+  "aliwizTopbarTitle": {
+    "message": "El asistente de Aliexpress muestra <b>mejor precio</b> y <b>mejores vendedores</b>"
+  },
+  "aliwizTopbarButton": {
+    "message": "Obtener gratis"
+  },
+  "doNotClosePage": {
+    "message": "No cierres la página hasta que se haya descargado el archivo"
+  },
+  "completed": {
+    "message": "Completado"
+  },
+  "somethingWentWrong": {
+    "message": "Algo salió mal. Inténtalo más tarde."
+  },
+  "downloadInfo": {
+    "message": "Información de descarga"
+  },
+  "prepareDownload": {
+    "message": "Preparando para descargar"
+  },
+  "videoDownloading": {
+    "message": "Descargando video"
+  },
+  "videoDownloaded": {
+    "message": "Videos subidos exitosamente"
+  },
+  "minimize": {
+    "message": "Minimizar"
+  },
+  "minimizeDownloadPanel": {
+    "message": "Minimiza la ventana de descarga, te informaremos cuando el video se haya descargado"
+  },
+  "done": {
+    "message": "Hecho"
+  },
+  "cancelDownload": {
+    "message": "Cancelar descarga"
+  },
+  "conversionCompleted": {
+    "message": "Conversión completada"
+  },
+  "someFilesNeedConverted": {
+    "message": "Algunos archivos necesitan ser convertidos, no cierres la ventana hasta que la conversión esté completa."
+  },
+  "errors": {
+    "message": "Errores"
+  },
+  "files": {
+    "message": "Archivos"
+  },
+  "login": {
+    "message": "Iniciar sesión en Helper Pro"
+  },
+  "loginIfPro": {
+    "message": "Inicia sesión si tienes Pro"
+  },
+  "activate": {
+    "message": "Activar"
+  },
+  "activatePro": {
+    "message": "Activar PRO"
+  },
+  "logout": {
+    "message": "Cerrar sesión"
+  },
+  "instruction": {
+    "message": "Instrucciones de uso"
+  },
+  "success": {
+    "message": "Éxito"
+  },
+  "televzrNotFound": {
+    "message": "Televzr no encontrado"
+  },
+  "televzrNotFoundSubMessage": {
+    "message": "Intenta descargar y abrir Televzr"
+  },
+  "authCheck": {
+    "message": "Verificación de credenciales"
+  },
+  "tzSearchApp": {
+    "message": "Buscar Televzr"
+  },
+  "tzPreparingToDownload": {
+    "message": "Preparándose para descargar"
+  },
+  "tzDownloadStarted": {
+    "message": "Añadido a la descarga"
+  },
+  "msg_no_premium": {
+    "message": "No has activado Pro"
+  },
+  "msg_not_authorized": {
+    "message": "Para usar Pro necesitas iniciar sesión"
+  },
+  "msg_quality_not_found": {
+    "message": "No se pudo encontrar la calidad especificada"
+  },
+  "msg_video_not_found": {
+    "message": "No se pudo encontrar el video especificado"
+  },
+  "msg_data_invalid": {
+    "message": "Se ha enviado información inválida, por favor inténtalo de nuevo"
+  },
+  "msg_video_exists": {
+    "message": "El video ya se está descargando"
+  },
+  "loginGmMessage": {
+    "message": "Ir a la página de inicio de sesión"
+  },
+  "loginAlreadyGmMessage": {
+    "message": "Ya has iniciado sesión, por favor actualiza la página"
+  },
+  "logoutGmMessage": {
+    "message": "Has cerrado sesión exitosamente"
+  },
+  "logoutAlreadyGmMessage": {
+    "message": "Ya has cerrado sesión, actualiza la página"
+  },
+  "howActivateHelperPro": {
+    "message": "Cómo activar Helper Pro"
+  },
+  "video_coming_soon": {
+    "message": "El video estará disponible pronto, empieza la descarga"
+  },
+  "dont_close_page": {
+    "message": "No cierres la página, <br/> tomará unos minutos"
+  },
+  "video_coming_ok": {
+    "message": "Continuar"
+  },
+  "are_you_sure_interrupt_download": {
+    "message": "¿Estás seguro de que quieres interrumpir la descarga?"
+  },
+  "try_pro_button": {
+    "message": "PRUEBA PRO"
+  },
+  "download_button_hold": {
+    "message": "Mantener"
+  },
+  "download_button_and_click": {
+    "message": "y hacer clic"
+  },
+  "options_management": {
+    "message": "Gestión de almacenamiento (Ordenar archivos por directorios)"
+  },
+  "options_Directory_title": {
+    "message": "Directorio"
+  },
+  "options_Formats_title": {
+    "message": "Formatos"
+  },
+  "options_Actions_title": {
+    "message": "Acciones"
+  },
+  "options_button_add": {
+    "message": "Agregar"
+  },
+  "options_button_reset": {
+    "message": "Restablecer"
+  },
+  "options_button_edit": {
+    "message": "Editar"
+  },
+  "options_button_delete": {
+    "message": "Eliminar"
+  },
+  "options_button_cancel": {
+    "message": "Cancelar"
+  },
+  "options_button_save": {
+    "message": "Guardar"
+  },
+  "options_no_type_msg": {
+    "message": "Ningún tipo asignado"
+  },
+  "downloadingBox_description": {
+    "message": "Si la descarga no ha comenzado, haz clic en el botón Descargar"
+  },
+  "downloadingBox_fileName": {
+    "message": "Nombre de archivo"
+  },
+  "downloadingBox_button": {
+    "message": "Descargar"
+  },
+  "downloadingBox_status_complete": {
+    "message": "Completado"
+  },
+  "downloadingBox_status_loading": {
+    "message": "Cargando..."
+  },
+  "tutorialTooltipText": {
+    "message": "Para descargar, simplemente haga clic en el botón"
+  }
+}

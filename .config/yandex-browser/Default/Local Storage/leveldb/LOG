@@ -1,0 +1,52 @@
+2024/06/21-02:25:03.482 4 File /home/wst/.config/yandex-browser/Default/Local Storage/leveldb is locked for recovering successfully
+2024/06/21-02:25:03.484 4 Reusing MANIFEST /home/wst/.config/yandex-browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/21-02:25:03.486 4 Recovering log #33
+2024/06/21-02:25:03.486 4 Reusing old log /home/wst/.config/yandex-browser/Default/Local Storage/leveldb/000033.log 
+2024/06/21-03:48:05.337 4 Level-0 table #37: started
+2024/06/21-03:48:05.351 4 Level-0 table #37: 10840 bytes OK
+2024/06/21-03:48:05.360 4 Delete type=0 #33
+2024/06/21-04:14:05.337 6 Level-0 table #39: started
+2024/06/21-04:14:05.351 6 Level-0 table #39: 9816 bytes OK
+2024/06/21-04:14:05.359 6 Delete type=0 #36
+2024/06/21-04:40:05.337 6 Level-0 table #41: started
+2024/06/21-04:40:05.351 6 Level-0 table #41: 9802 bytes OK
+2024/06/21-04:40:05.359 6 Delete type=0 #38
+2024/06/21-04:40:05.360 6 Compacting 4@0 + 1@1 files
+2024/06/21-04:40:05.417 6 Generated table #42@0: 163 keys, 1273013 bytes
+2024/06/21-04:40:05.418 6 Compacted 4@0 + 1@1 files => 1273013 bytes
+2024/06/21-04:40:05.425 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/21-04:40:05.426 6 Delete type=2 #32
+2024/06/21-04:40:05.426 6 Delete type=2 #34
+2024/06/21-04:40:05.426 6 Delete type=2 #37
+2024/06/21-04:40:05.426 6 Delete type=2 #39
+2024/06/21-04:40:05.426 6 Delete type=2 #41
+2024/06/21-05:04:05.337 6 Level-0 table #44: started
+2024/06/21-05:04:05.350 6 Level-0 table #44: 9721 bytes OK
+2024/06/21-05:04:05.358 6 Delete type=0 #40
+2024/06/21-05:28:05.337 6 Level-0 table #46: started
+2024/06/21-05:28:05.350 6 Level-0 table #46: 9527 bytes OK
+2024/06/21-05:28:05.359 6 Delete type=0 #43
+2024/06/21-05:52:05.336 6 Level-0 table #48: started
+2024/06/21-05:52:05.350 6 Level-0 table #48: 10656 bytes OK
+2024/06/21-05:52:05.358 6 Delete type=0 #45
+2024/06/21-06:16:05.336 6 Level-0 table #50: started
+2024/06/21-06:16:05.349 6 Level-0 table #50: 10945 bytes OK
+2024/06/21-06:16:05.356 6 Delete type=0 #47
+2024/06/21-06:16:05.357 6 Compacting 4@0 + 1@1 files
+2024/06/21-06:16:05.402 6 Generated table #51@0: 163 keys, 1273078 bytes
+2024/06/21-06:16:05.403 6 Compacted 4@0 + 1@1 files => 1273078 bytes
+2024/06/21-06:16:05.409 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/21-06:16:05.410 6 Delete type=2 #42
+2024/06/21-06:16:05.410 6 Delete type=2 #44
+2024/06/21-06:16:05.410 6 Delete type=2 #46
+2024/06/21-06:16:05.410 6 Delete type=2 #48
+2024/06/21-06:16:05.411 6 Delete type=2 #50
+2024/06/21-06:40:05.337 6 Level-0 table #53: started
+2024/06/21-06:40:05.350 6 Level-0 table #53: 10956 bytes OK
+2024/06/21-06:40:05.359 6 Delete type=0 #49
+2024/06/21-06:56:37.863 6 Level-0 table #55: started
+2024/06/21-06:56:37.868 6 Level-0 table #55: 13045 bytes OK
+2024/06/21-06:56:37.876 6 Delete type=0 #52
+2024/06/21-06:57:00.286 6 Level-0 table #57: started
+2024/06/21-06:57:00.298 6 Level-0 table #57: 17500 bytes OK
+2024/06/21-06:57:00.318 6 Delete type=0 #54

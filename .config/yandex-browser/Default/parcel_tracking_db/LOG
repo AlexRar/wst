@@ -1,0 +1,4 @@
+2024/06/21-02:25:03.493 97b File /home/wst/.config/yandex-browser/Default/parcel_tracking_db is locked for recovering successfully
+2024/06/21-02:25:03.493 97b Deletion DBImpl for /home/wst/.config/yandex-browser/Default/parcel_tracking_db, waiting for background work finished
+2024/06/21-02:25:03.494 97b Deletion DBImpl for /home/wst/.config/yandex-browser/Default/parcel_tracking_db, background work finished
+2024/06/21-02:25:03.494 97b File /home/wst/.config/yandex-browser/Default/parcel_tracking_db unlocked successfully

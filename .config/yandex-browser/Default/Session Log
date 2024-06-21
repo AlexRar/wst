@@ -1,0 +1,519 @@
+ion: windows=1, tabs=21, pinned=0, ignored=0, ignored_pinned=0, spaces=1
+2024-06-21 04:47:54.190 [0] IsReadyToProcessSessionWindows
+2024-06-21 04:47:54.450 [0] OnGotSession(apps): windows=0, tabs=0, pinned=0, ignored=0, ignored_pinned=0, spaces=0
+2024-06-21 04:47:54.450 [1] IsReadyToProcessSessionWindows
+2024-06-21 04:47:54.450 [1] RestoreSpaces
+2024-06-21 04:47:54.456 [1] OnTabInsertedAt: tabs=2, pinned=0, space=1075691058
+2024-06-21 04:47:54.458 [1] ActiveTabChanged
+2024-06-21 04:47:54.471 [1] OnTabInsertedAt: tabs=3, pinned=0, space=1075691058
+2024-06-21 04:47:54.475 [1] OnTabInsertedAt: tabs=4, pinned=0, space=1075691058
+2024-06-21 04:47:54.478 [1] OnTabInsertedAt: tabs=5, pinned=0, space=1075691058
+2024-06-21 04:47:54.481 [1] OnTabInsertedAt: tabs=6, pinned=0, space=1075691058
+2024-06-21 04:47:54.484 [1] OnTabInsertedAt: tabs=7, pinned=0, space=1075691058
+2024-06-21 04:47:54.487 [1] OnTabInsertedAt: tabs=8, pinned=0, space=1075691058
+2024-06-21 04:47:54.491 [1] OnTabInsertedAt: tabs=9, pinned=0, space=1075691058
+2024-06-21 04:47:54.495 [1] OnTabInsertedAt: tabs=10, pinned=0, space=1075691058
+2024-06-21 04:47:54.498 [1] OnTabInsertedAt: tabs=11, pinned=0, space=1075691058
+2024-06-21 04:47:54.502 [1] OnTabInsertedAt: tabs=12, pinned=0, space=1075691058
+2024-06-21 04:47:54.505 [1] OnTabInsertedAt: tabs=13, pinned=0, space=1075691058
+2024-06-21 04:47:54.508 [1] OnTabInsertedAt: tabs=14, pinned=0, space=1075691058
+2024-06-21 04:47:54.511 [1] OnTabInsertedAt: tabs=15, pinned=0, space=1075691058
+2024-06-21 04:47:54.514 [1] OnTabInsertedAt: tabs=16, pinned=0, space=1075691058
+2024-06-21 04:47:54.517 [1] OnTabInsertedAt: tabs=17, pinned=0, space=1075691058
+2024-06-21 04:47:54.520 [1] OnTabInsertedAt: tabs=18, pinned=0, space=1075691058
+2024-06-21 04:47:54.523 [1] OnTabInsertedAt: tabs=19, pinned=0, space=1075691058
+2024-06-21 04:47:54.525 [1] OnTabInsertedAt: tabs=20, pinned=0, space=1075691058
+2024-06-21 04:47:54.528 [1] OnTabInsertedAt: tabs=21, pinned=0, space=1075691058
+2024-06-21 04:47:54.531 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.534 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.534 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.535 [1] ActiveTabChanged
+2024-06-21 04:47:54.543 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.543 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.546 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.546 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.549 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.549 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.552 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.552 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.555 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.556 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.559 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.559 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.563 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.563 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.566 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.566 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.571 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.571 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.575 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.575 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.578 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.578 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.581 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.581 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.584 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.584 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.588 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.588 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.592 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.592 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.596 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.596 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.599 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.600 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.604 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.604 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.607 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.607 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.610 [1] OnTabReplacedAt: tabs=22, pinned=0
+2024-06-21 04:47:54.610 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:47:54.614 [21] ActiveTabChanged
+2024-06-21 04:47:54.627 [1] OnTabClosing: tabs=21, pinned=0, space=0
+2024-06-21 04:47:54.627 [0] OnTabDetached
+2024-06-21 04:47:54.630 [0] SetRestoreAfterCrash
+2024-06-21 04:47:54.630 [0] Session restored
+2024-06-21 04:47:54.630 [0] ScheduleResetCommands
+2024-06-21 04:47:54.630 [0] ClearPendingCommands
+2024-06-21 04:47:54.630 [21] BuildCommandsForBrowser
+2024-06-21 04:47:54.631 [0] OnWindowsAndTabsRestored
+2024-06-21 04:47:54.799 [1] RemoveKeepAlive: keep_alives=2
+2024-06-21 04:47:57.083 [243] AppendCommandsWithReset
+2024-06-21 04:47:57.083 [0] TruncateOrOpenFile
+2024-06-21 04:47:57.083 [0] OpenAndWriteHeader
+2024-06-21 04:47:57.083 [0] OpenAndWriteHeader done
+2024-06-21 04:47:57.083 [0] TruncateOrOpenFile done
+2024-06-21 04:47:57.133 [18] AddKeepAlive: keep_alives=3
+2024-06-21 04:48:00.752 [4] AppendCommands
+2024-06-21 04:48:01.823 [24] AddKeepAlive: keep_alives=4
+2024-06-21 04:48:03.468 [24] RemoveKeepAlive: keep_alives=3
+2024-06-21 04:48:03.468 [18] RemoveKeepAlive: keep_alives=2
+2024-06-21 04:48:11.892 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691058
+2024-06-21 04:48:11.893 [21] ActiveTabChanged
+2024-06-21 04:48:14.392 [23] AppendCommands
+2024-06-21 04:48:19.006 [1] AppendCommands
+2024-06-21 04:48:25.071 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691058
+2024-06-21 04:48:25.074 [22] ActiveTabChanged
+2024-06-21 04:48:27.571 [15] AppendCommands
+2024-06-21 04:48:31.556 [2] AppendCommands
+2024-06-21 04:48:34.963 [1] AppendCommands
+2024-06-21 04:48:38.977 [1] OnTabClosing: tabs=22, pinned=0, space=0
+2024-06-21 04:48:38.977 [0] OnTabDetached
+2024-06-21 04:48:38.982 [21] ActiveTabChanged
+2024-06-21 04:48:39.485 [114] AppendCommands
+2024-06-21 04:48:51.031 [1] AppendCommands
+2024-06-21 04:48:53.097 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691058
+2024-06-21 04:48:53.102 [22] ActiveTabChanged
+2024-06-21 04:48:55.597 [15] AppendCommands
+2024-06-21 04:48:58.253 [1] AppendCommands
+2024-06-21 04:48:58.264 [0] Flush done
+2024-06-21 04:49:01.431 [2] AppendCommands
+2024-06-21 04:49:04.100 [1] AppendCommands
+2024-06-21 04:49:07.384 [1] AppendCommands
+2024-06-21 04:49:10.518 [1] AppendCommands
+2024-06-21 04:49:13.597 [1] AppendCommands
+2024-06-21 04:49:18.035 [1] AppendCommands
+2024-06-21 04:49:20.784 [1] AppendCommands
+2024-06-21 04:49:22.407 [1] OnTabClosing: tabs=22, pinned=0, space=0
+2024-06-21 04:49:22.407 [0] OnTabDetached
+2024-06-21 04:49:22.407 [250] Optimize session
+2024-06-21 04:49:22.407 [0] ScheduleResetCommands
+2024-06-21 04:49:22.407 [65] ClearPendingCommands
+2024-06-21 04:49:22.407 [22] BuildCommandsForBrowser
+2024-06-21 04:49:22.413 [21] ActiveTabChanged
+2024-06-21 04:49:23.573 [299] AppendCommandsWithReset
+2024-06-21 04:49:23.573 [0] TruncateOrOpenFile
+2024-06-21 04:49:23.573 [0] OpenAndWriteHeader
+2024-06-21 04:49:23.573 [0] OpenAndWriteHeader done
+2024-06-21 04:49:23.573 [0] TruncateOrOpenFile done
+2024-06-21 04:49:35.003 [11] AppendCommands
+2024-06-21 04:49:36.600 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691058
+2024-06-21 04:49:36.603 [22] ActiveTabChanged
+2024-06-21 04:49:38.964 [15] AppendCommands
+2024-06-21 04:49:41.659 [6] AppendCommands
+2024-06-21 04:49:44.179 [1] AppendCommands
+2024-06-21 04:49:46.780 [2] AppendCommands
+2024-06-21 04:49:50.096 [1] AppendCommands
+2024-06-21 04:49:52.909 [1] AppendCommands
+2024-06-21 04:49:55.731 [1] AppendCommands
+2024-06-21 04:49:58.932 [0] Flush done
+2024-06-21 04:50:19.568 [1] AppendCommands
+2024-06-21 04:51:17.068 [0] Flush done
+2024-06-21 04:53:29.346 [20] ActiveTabChanged
+2024-06-21 04:53:31.846 [2] AppendCommands
+2024-06-21 04:53:35.998 [1] AppendCommands
+2024-06-21 04:53:40.521 [5] AppendCommands
+2024-06-21 04:53:42.924 [0] ScheduleResetCommands
+2024-06-21 04:53:42.924 [0] ClearPendingCommands
+2024-06-21 04:53:42.924 [23] BuildCommandsForBrowser
+2024-06-21 04:53:45.425 [268] AppendCommandsWithReset
+2024-06-21 04:53:45.425 [0] TruncateOrOpenFile
+2024-06-21 04:53:45.425 [0] OpenAndWriteHeader
+2024-06-21 04:53:45.425 [0] OpenAndWriteHeader done
+2024-06-21 04:53:45.425 [0] TruncateOrOpenFile done
+2024-06-21 04:53:46.834 [0] ScheduleResetCommands
+2024-06-21 04:53:46.834 [0] ClearPendingCommands
+2024-06-21 04:53:46.834 [23] BuildCommandsForBrowser
+2024-06-21 04:53:49.335 [264] AppendCommandsWithReset
+2024-06-21 04:53:49.335 [0] TruncateOrOpenFile
+2024-06-21 04:53:49.335 [0] OpenAndWriteHeader
+2024-06-21 04:53:49.335 [0] OpenAndWriteHeader done
+2024-06-21 04:53:49.335 [0] TruncateOrOpenFile done
+2024-06-21 04:53:53.043 [1] AppendCommands
+2024-06-21 04:53:56.608 [1] AppendCommands
+2024-06-21 04:54:00.030 [1] AppendCommands
+2024-06-21 04:54:29.346 [0] Flush done
+2024-06-21 04:56:17.577 [1] AppendCommands
+2024-06-21 04:56:51.347 [1] AppendCommands
+2024-06-21 04:57:15.089 [0] Flush done
+2024-06-21 04:57:24.745 [1] AppendCommands
+2024-06-21 04:58:22.245 [0] Flush done
+2024-06-21 04:59:07.328 [1] AppendCommands
+2024-06-21 04:59:12.761 [1] AppendCommands
+2024-06-21 04:59:15.275 [1] AppendCommands
+2024-06-21 04:59:18.291 [1] AppendCommands
+2024-06-21 05:00:04.828 [0] Flush done
+2024-06-21 05:05:21.102 [0] Session Log Truncated
+2024-06-21 05:05:21.102 [0] InitSessionLog done
+2024-06-21 05:05:21.102 [1] New session 24.4.1.951 (spaces: 1)
+2024-06-21 05:05:21.102 [0] ScheduleResetCommands
+2024-06-21 05:05:21.102 [0] ClearPendingCommands
+2024-06-21 05:05:21.106 [0] RegisterProfile background mode
+2024-06-21 05:05:21.190 [1] AddKeepAlive: keep_alives=2
+2024-06-21 05:05:21.190 [0] Request last session windows
+2024-06-21 05:05:21.190 [0] ReadLastSessionCommands
+2024-06-21 05:05:21.191 [3]   SessionState (15)
+2024-06-21 05:05:21.191 [0]     13363419229335801: 221
+2024-06-21 05:05:21.191 [0]     13363419225425656: 202
+2024-06-21 05:05:21.192 [0]     13363418623318114: 183
+2024-06-21 05:05:21.192 [0]     13363418612225921: 180
+2024-06-21 05:05:21.192 [0]     13363375402318208: 175
+2024-06-21 05:05:21.192 [0]     13363375275320653: 186
+2024-06-21 05:05:21.192 [0]     13363367561128593: 175
+2024-06-21 05:05:21.192 [0]     13363335950024860: 172
+2024-06-21 05:05:21.192 [0]     13363335812002907: 579
+2024-06-21 05:05:21.192 [0]     13363335312069836: 536
+2024-06-21 05:05:21.192 [0]     13363335230057372: 134
+2024-06-21 05:05:21.192 [0]     13363335197340010: 139
+2024-06-21 05:05:21.192 [0]     13363332905755187: 345
+2024-06-21 05:05:21.192 [0]     13363332529198511: 380
+2024-06-21 05:05:21.192 [0]     13363332525223069: 307
+2024-06-21 05:05:21.192 [1]   Init
+2024-06-21 05:05:21.218 [0]   Init done
+2024-06-21 05:05:21.219 [0]   ReadCommandsFromFile
+2024-06-21 05:05:21.224 [0]   ReadCommandsFromFile done: 221 (274)
+2024-06-21 05:05:21.224 [0] ReadLastSessionCommands done
+2024-06-21 05:05:21.224 [1] GetLastSession synchronously
+2024-06-21 05:05:21.385 [0] OnGotSession: windows=1, tabs=23, pinned=0, ignored=0, ignored_pinned=0, spaces=1
+2024-06-21 05:05:21.385 [0] IsReadyToProcessSessionWindows
+2024-06-21 05:05:21.556 [0] OnGotSession(apps): windows=0, tabs=0, pinned=0, ignored=0, ignored_pinned=0, spaces=0
+2024-06-21 05:05:21.556 [1] IsReadyToProcessSessionWindows
+2024-06-21 05:05:21.556 [0] GetLastSession synchronously done
+2024-06-21 05:05:21.557 [1] AddKeepAlive: keep_alives=2
+2024-06-21 05:05:21.763 [0] WindowOpened
+2024-06-21 05:05:21.763 [1] OnSpaceAdded: 1075691784
+2024-06-21 05:05:21.763 [1] OnActiveSpaceChanged
+2024-06-21 05:05:21.763 [2] AddKeepAlive: keep_alives=3
+2024-06-21 05:05:21.766 [1] RestoreSpaces
+2024-06-21 05:05:21.770 [1] OnTabInsertedAt: tabs=1, pinned=0, space=1075691784
+2024-06-21 05:05:21.773 [1] OnTabInsertedAt: tabs=2, pinned=0, space=1075691784
+2024-06-21 05:05:21.776 [1] OnTabInsertedAt: tabs=3, pinned=0, space=1075691784
+2024-06-21 05:05:21.779 [1] OnTabInsertedAt: tabs=4, pinned=0, space=1075691784
+2024-06-21 05:05:21.782 [1] OnTabInsertedAt: tabs=5, pinned=0, space=1075691784
+2024-06-21 05:05:21.786 [1] OnTabInsertedAt: tabs=6, pinned=0, space=1075691784
+2024-06-21 05:05:21.790 [1] OnTabInsertedAt: tabs=7, pinned=0, space=1075691784
+2024-06-21 05:05:21.795 [1] OnTabInsertedAt: tabs=8, pinned=0, space=1075691784
+2024-06-21 05:05:21.797 [1] OnTabInsertedAt: tabs=9, pinned=0, space=1075691784
+2024-06-21 05:05:21.800 [1] OnTabInsertedAt: tabs=10, pinned=0, space=1075691784
+2024-06-21 05:05:21.803 [1] OnTabInsertedAt: tabs=11, pinned=0, space=1075691784
+2024-06-21 05:05:21.805 [1] OnTabInsertedAt: tabs=12, pinned=0, space=1075691784
+2024-06-21 05:05:21.808 [1] OnTabInsertedAt: tabs=13, pinned=0, space=1075691784
+2024-06-21 05:05:21.810 [1] OnTabInsertedAt: tabs=14, pinned=0, space=1075691784
+2024-06-21 05:05:21.812 [1] OnTabInsertedAt: tabs=15, pinned=0, space=1075691784
+2024-06-21 05:05:21.815 [1] OnTabInsertedAt: tabs=16, pinned=0, space=1075691784
+2024-06-21 05:05:21.817 [1] OnTabInsertedAt: tabs=17, pinned=0, space=1075691784
+2024-06-21 05:05:21.819 [1] OnTabInsertedAt: tabs=18, pinned=0, space=1075691784
+2024-06-21 05:05:21.821 [1] OnTabInsertedAt: tabs=19, pinned=0, space=1075691784
+2024-06-21 05:05:21.823 [1] OnTabInsertedAt: tabs=20, pinned=0, space=1075691784
+2024-06-21 05:05:21.826 [1] OnTabInsertedAt: tabs=21, pinned=0, space=1075691784
+2024-06-21 05:05:21.828 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075691784
+2024-06-21 05:05:21.832 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.834 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.834 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.838 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.838 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.842 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.842 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.845 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.845 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.848 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.849 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.852 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.852 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.856 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.856 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.859 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.859 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.862 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.863 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.866 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.866 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.870 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.870 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.873 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.873 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.877 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.877 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.880 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.880 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.883 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.883 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.888 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.888 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.892 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.892 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.895 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.895 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.899 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.899 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.902 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.902 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.906 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.906 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.914 [20] ActiveTabChanged
+2024-06-21 05:05:21.938 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.939 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.944 [1] OnTabReplacedAt: tabs=23, pinned=0
+2024-06-21 05:05:21.944 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075691784
+2024-06-21 05:05:21.963 [0] Session restored
+2024-06-21 05:05:21.963 [0] OnWindowsAndTabsRestored
+2024-06-21 05:05:21.963 [0] Launch
+2024-06-21 05:05:22.096 [1] RemoveKeepAlive: keep_alives=2
+2024-06-21 05:05:23.950 [2387] AppendCommandsWithReset
+2024-06-21 05:05:23.950 [0] TruncateOrOpenFile
+2024-06-21 05:05:23.950 [0] OpenAndWriteHeader
+2024-06-21 05:05:23.950 [0] OpenAndWriteHeader done
+2024-06-21 05:05:23.950 [0] TruncateOrOpenFile done
+2024-06-21 05:05:24.095 [18] AddKeepAlive: keep_alives=3
+2024-06-21 05:05:27.138 [1] AppendCommands
+2024-06-21 05:05:28.187 [24] AddKeepAlive: keep_alives=4
+2024-06-21 05:05:29.823 [24] RemoveKeepAlive: keep_alives=3
+2024-06-21 05:05:29.823 [18] RemoveKeepAlive: keep_alives=2
+2024-06-21 05:05:30.393 [1] AppendCommands
+2024-06-21 05:05:33.434 [1] AppendCommands
+2024-06-21 05:05:36.473 [1] AppendCommands
+2024-06-21 05:05:39.500 [1] AppendCommands
+2024-06-21 05:06:24.639 [0] Flush done
+2024-06-21 05:06:30.757 [0] MaybeAsyncRestore: windows=1, apps=0
+2024-06-21 05:06:30.760 [1] OnTabInsertedAt: tabs=24, pinned=0, space=1075691784
+2024-06-21 05:06:30.775 [23] ActiveTabChanged
+2024-06-21 05:06:30.782 [0] ! SkipEntry
+2024-06-21 05:06:30.783 [0] Session restored
+2024-06-21 05:06:30.783 [0] OnWindowsAndTabsRestored
+2024-06-21 05:06:30.783 [1] Launch
+2024-06-21 05:06:32.609 [0] MaybeAsyncRestore: windows=1, apps=0
+2024-06-21 05:06:32.613 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075691784
+2024-06-21 05:06:32.625 [24] ActiveTabChanged
+2024-06-21 05:06:32.630 [0] ! SkipEntry
+2024-06-21 05:06:32.632 [0] Session restored
+2024-06-21 05:06:32.632 [0] OnWindowsAndTabsRestored
+2024-06-21 05:06:32.632 [1] Launch
+2024-06-21 05:06:33.262 [41] AppendCommands
+2024-06-21 05:06:35.848 [11] AppendCommands
+2024-06-21 05:06:38.405 [1] AppendCommands
+2024-06-21 05:06:42.218 [1] AppendCommands
+2024-06-21 05:07:07.785 [1] OnTabClosing: tabs=24, pinned=0, space=0
+2024-06-21 05:07:07.785 [0] OnTabDetached
+2024-06-21 05:07:07.792 [23] ActiveTabChanged
+2024-06-21 05:07:10.286 [123] AppendCommands
+2024-06-21 05:07:30.773 [0] Flush done
+2024-06-21 05:25:03.489 [0] InitSessionLog done
+2024-06-21 05:25:03.489 [1] New session 24.4.1.951 (spaces: 1)
+2024-06-21 05:25:03.489 [1] SetRestoreAfterCrash
+2024-06-21 05:25:03.489 [0] ClearPendingCommands
+2024-06-21 05:25:03.494 [0] RegisterProfile background mode
+2024-06-21 05:25:03.570 [1] OpenTabsInBrowser
+2024-06-21 05:25:03.571 [0] ReadLastSessionCommands
+2024-06-21 05:25:03.572 [7]   SessionState (5)
+2024-06-21 05:25:03.572 [0]     13363419923950444: 750
+2024-06-21 05:25:03.572 [0]     13363419229335801: 221
+2024-06-21 05:25:03.572 [0]     13363419225425656: 202
+2024-06-21 05:25:03.572 [0]     13363418623318114: 183
+2024-06-21 05:25:03.572 [0]     13363418612225921: 180
+2024-06-21 05:25:03.572 [1]   Init
+2024-06-21 05:25:03.575 [0]   Init done
+2024-06-21 05:25:03.575 [0]   ReadCommandsFromFile
+2024-06-21 05:25:03.577 [0]   ReadCommandsFromFile done: 750 (2569)
+2024-06-21 05:25:03.577 [0] ReadLastSessionCommands done
+2024-06-21 05:25:03.577 [1] AddKeepAlive: keep_alives=2
+2024-06-21 05:25:03.804 [0] WindowOpened
+2024-06-21 05:25:03.804 [1] OnSpaceAdded: 1075692382
+2024-06-21 05:25:03.804 [1] OnActiveSpaceChanged
+2024-06-21 05:25:03.810 [1] OnTabInsertedAt: tabs=1, pinned=0, space=1075692382
+2024-06-21 05:25:03.818 [0] ActiveTabChanged
+2024-06-21 05:25:03.834 [1] AddKeepAlive: keep_alives=2
+2024-06-21 05:25:03.834 [0] Request last session windows
+2024-06-21 05:25:03.834 [0] ReadLastSessionCommands
+2024-06-21 05:25:03.834 [0]   ReadCommandsFromFile
+2024-06-21 05:25:03.842 [0]   ReadCommandsFromFile done: 750 (2569)
+2024-06-21 05:25:03.842 [0] ReadLastSessionCommands done
+2024-06-21 05:25:03.842 [1] GetLastSession asynchronously
+2024-06-21 05:25:03.842 [0] Launch
+2024-06-21 05:25:03.967 [2] AddKeepAlive: keep_alives=3
+2024-06-21 05:25:04.042 [0] OnGotSession: windows=1, tabs=24, pinned=0, ignored=0, ignored_pinned=0, spaces=1
+2024-06-21 05:25:04.042 [0] IsReadyToProcessSessionWindows
+2024-06-21 05:25:04.315 [0] OnGotSession(apps): windows=0, tabs=0, pinned=0, ignored=0, ignored_pinned=0, spaces=0
+2024-06-21 05:25:04.315 [1] IsReadyToProcessSessionWindows
+2024-06-21 05:25:04.315 [1] RestoreSpaces
+2024-06-21 05:25:04.320 [1] OnTabInsertedAt: tabs=2, pinned=0, space=1075692382
+2024-06-21 05:25:04.322 [1] ActiveTabChanged
+2024-06-21 05:25:04.331 [1] OnTabInsertedAt: tabs=3, pinned=0, space=1075692382
+2024-06-21 05:25:04.334 [1] OnTabInsertedAt: tabs=4, pinned=0, space=1075692382
+2024-06-21 05:25:04.337 [1] OnTabInsertedAt: tabs=5, pinned=0, space=1075692382
+2024-06-21 05:25:04.340 [1] OnTabInsertedAt: tabs=6, pinned=0, space=1075692382
+2024-06-21 05:25:04.343 [1] OnTabInsertedAt: tabs=7, pinned=0, space=1075692382
+2024-06-21 05:25:04.346 [1] OnTabInsertedAt: tabs=8, pinned=0, space=1075692382
+2024-06-21 05:25:04.349 [1] OnTabInsertedAt: tabs=9, pinned=0, space=1075692382
+2024-06-21 05:25:04.352 [1] OnTabInsertedAt: tabs=10, pinned=0, space=1075692382
+2024-06-21 05:25:04.356 [1] OnTabInsertedAt: tabs=11, pinned=0, space=1075692382
+2024-06-21 05:25:04.360 [1] OnTabInsertedAt: tabs=12, pinned=0, space=1075692382
+2024-06-21 05:25:04.365 [1] OnTabInsertedAt: tabs=13, pinned=0, space=1075692382
+2024-06-21 05:25:04.368 [1] OnTabInsertedAt: tabs=14, pinned=0, space=1075692382
+2024-06-21 05:25:04.373 [1] OnTabInsertedAt: tabs=15, pinned=0, space=1075692382
+2024-06-21 05:25:04.376 [1] OnTabInsertedAt: tabs=16, pinned=0, space=1075692382
+2024-06-21 05:25:04.379 [1] OnTabInsertedAt: tabs=17, pinned=0, space=1075692382
+2024-06-21 05:25:04.382 [1] OnTabInsertedAt: tabs=18, pinned=0, space=1075692382
+2024-06-21 05:25:04.385 [1] OnTabInsertedAt: tabs=19, pinned=0, space=1075692382
+2024-06-21 05:25:04.388 [1] OnTabInsertedAt: tabs=20, pinned=0, space=1075692382
+2024-06-21 05:25:04.391 [1] OnTabInsertedAt: tabs=21, pinned=0, space=1075692382
+2024-06-21 05:25:04.394 [1] OnTabInsertedAt: tabs=22, pinned=0, space=1075692382
+2024-06-21 05:25:04.397 [1] OnTabInsertedAt: tabs=23, pinned=0, space=1075692382
+2024-06-21 05:25:04.400 [1] OnTabInsertedAt: tabs=24, pinned=0, space=1075692382
+2024-06-21 05:25:04.402 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.406 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.406 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.407 [1] ActiveTabChanged
+2024-06-21 05:25:04.415 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.415 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.418 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.418 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.422 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.422 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.426 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.426 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.430 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.430 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.434 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.434 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.438 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.438 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.441 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.441 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.444 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.444 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.448 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.448 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.451 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.451 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.454 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.454 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.458 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.458 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.463 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.463 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.467 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.467 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.471 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.471 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.475 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.475 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.478 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.478 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.482 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.482 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.486 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.486 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.491 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.491 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.494 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.494 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.498 [1] OnTabReplacedAt: tabs=25, pinned=0
+2024-06-21 05:25:04.498 [1] OnTabInsertedAt: tabs=25, pinned=0, space=1075692382
+2024-06-21 05:25:04.501 [24] ActiveTabChanged
+2024-06-21 05:25:04.518 [1] OnTabClosing: tabs=24, pinned=0, space=0
+2024-06-21 05:25:04.518 [0] OnTabDetached
+2024-06-21 05:25:04.522 [0] SetRestoreAfterCrash
+2024-06-21 05:25:04.522 [0] Session restored
+2024-06-21 05:25:04.522 [0] ScheduleResetCommands
+2024-06-21 05:25:04.522 [0] ClearPendingCommands
+2024-06-21 05:25:04.522 [24] BuildCommandsForBrowser
+2024-06-21 05:25:04.526 [0] OnWindowsAndTabsRestored
+2024-06-21 05:25:04.712 [1] RemoveKeepAlive: keep_alives=2
+2024-06-21 05:25:07.098 [272] AppendCommandsWithReset
+2024-06-21 05:25:07.098 [0] TruncateOrOpenFile
+2024-06-21 05:25:07.098 [0] OpenAndWriteHeader
+2024-06-21 05:25:07.098 [0] OpenAndWriteHeader done
+2024-06-21 05:25:07.098 [0] TruncateOrOpenFile done
+2024-06-21 05:25:07.138 [18] AddKeepAlive: keep_alives=3
+2024-06-21 05:25:09.928 [3] AppendCommands
+2024-06-21 05:25:11.318 [24] AddKeepAlive: keep_alives=4
+2024-06-21 05:25:12.876 [24] RemoveKeepAlive: keep_alives=3
+2024-06-21 05:25:12.876 [18] RemoveKeepAlive: keep_alives=2
+2024-06-21 05:26:07.428 [0] Flush done
+2024-06-21 06:33:03.221 [1] OnTabClosing: tabs=23, pinned=0, space=0
+2024-06-21 06:33:03.221 [0] OnTabDetached
+2024-06-21 06:33:03.234 [22] ActiveTabChanged
+2024-06-21 06:33:05.721 [127] AppendCommands
+2024-06-21 06:33:09.126 [1] AppendCommands
+2024-06-21 06:33:12.389 [1] AppendCommands
+2024-06-21 06:34:03.222 [0] Flush done
+2024-06-21 06:34:06.265 [1] AppendCommands
+2024-06-21 06:35:03.765 [0] Flush done
+2024-06-21 07:33:10.263 [1] AppendCommands
+2024-06-21 07:34:07.763 [0] Flush done
+2024-06-21 09:56:00.652 [0] MaybeAsyncRestore: windows=1, apps=0
+2024-06-21 09:56:00.652 [1] OpenTabsInBrowser
+2024-06-21 09:56:00.653 [1] AddKeepAlive: keep_alives=3
+2024-06-21 09:56:00.689 [1] WindowOpened
+2024-06-21 09:56:00.689 [1] OnSpaceAdded: 1075693244
+2024-06-21 09:56:00.689 [1] OnActiveSpaceChanged
+2024-06-21 09:56:00.696 [2] OnTabInsertedAt: tabs=1, pinned=0, space=1075693244
+2024-06-21 09:56:00.700 [0] ActiveTabChanged
+2024-06-21 09:56:00.729 [0] Session restored
+2024-06-21 09:56:00.729 [0] OnWindowsAndTabsRestored
+2024-06-21 09:56:00.729 [0] Launch
+2024-06-21 09:56:03.189 [26] AppendCommands
+2024-06-21 09:56:08.821 [2] OnTabInsertedAt: tabs=2, pinned=0, space=1075693244
+2024-06-21 09:56:08.823 [1] ActiveTabChanged
+2024-06-21 09:56:08.847 [2] OnTabClosing: tabs=1, pinned=0, space=0
+2024-06-21 09:56:08.847 [0] OnTabDetached
+2024-06-21 09:56:11.321 [23] AppendCommands
+2024-06-21 09:56:14.313 [3] AppendCommands
+2024-06-21 09:56:32.539 [11] AppendCommands
+2024-06-21 09:56:35.352 [3] AppendCommands
+2024-06-21 09:56:39.976 [8] AppendCommands
+2024-06-21 09:56:42.504 [14] AppendCommands
+2024-06-21 09:56:45.420 [3] AppendCommands
+2024-06-21 09:56:50.950 [9] AppendCommands
+2024-06-21 09:56:53.751 [5] AppendCommands
+2024-06-21 09:56:57.023 [5] AppendCommands
+2024-06-21 09:56:59.989 [250] Optimize session
+2024-06-21 09:56:59.989 [0] ScheduleResetCommands
+2024-06-21 09:56:59.989 [6] ClearPendingCommands
+2024-06-21 09:56:59.989 [23] BuildCommandsForBrowser
+2024-06-21 09:56:59.992 [1] BuildCommandsForBrowser
+2024-06-21 09:57:00.689 [287] AppendCommandsWithReset
+2024-06-21 09:57:00.689 [0] TruncateOrOpenFile
+2024-06-21 09:57:00.689 [0] OpenAndWriteHeader
+2024-06-21 09:57:00.689 [0] OpenAndWriteHeader done
+2024-06-21 09:57:00.689 [0] TruncateOrOpenFile done
+2024-06-21 09:57:06.102 [1] AppendCommands
+2024-06-21 09:58:03.602 [0] Flush done
+2024-06-21 10:03:52.429 [2] AppendCommands
+2024-06-21 10:04:25.517 [18] AddKeepAlive: keep_alives=4
+2024-06-21 10:04:26.842 [24] AddKeepAlive: keep_alives=5
+2024-06-21 10:04:26.871 [24] RemoveKeepAlive: keep_alives=4
+2024-06-21 10:04:34.544 [24] AddKeepAlive: keep_alives=5
+2024-06-21 10:04:36.086 [24] RemoveKeepAlive: keep_alives=4
+2024-06-21 10:04:36.086 [18] RemoveKeepAlive: keep_alives=3
+2024-06-21 10:04:49.929 [0] Flush done

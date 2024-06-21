@@ -1,0 +1,7 @@
+2024/06/21-01:34:38.090 5c4 File /home/wst/.config/yandex-browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb is locked for recovering successfully
+2024/06/21-01:34:38.090 5c4 Reusing MANIFEST /home/wst/.config/yandex-browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/21-01:34:38.090 5c4 Recovering log #3
+2024/06/21-01:34:38.092 5c4 Reusing old log /home/wst/.config/yandex-browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000003.log 
+2024/06/21-01:36:30.619 5c2 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb, waiting for background work finished
+2024/06/21-01:36:30.619 5c2 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb, background work finished
+2024/06/21-01:36:30.619 5c2 File /home/wst/.config/yandex-browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb unlocked successfully

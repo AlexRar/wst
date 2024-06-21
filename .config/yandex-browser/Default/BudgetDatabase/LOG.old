@@ -1,0 +1,4 @@
+2024/06/21-02:05:24.001 825 File /home/wst/.config/yandex-browser/Default/BudgetDatabase is locked for recovering successfully
+2024/06/21-02:05:24.002 825 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/BudgetDatabase, waiting for background work finished
+2024/06/21-02:05:24.002 825 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/BudgetDatabase, background work finished
+2024/06/21-02:05:24.002 825 File /home/wst/.config/yandex-browser/Default/BudgetDatabase unlocked successfully

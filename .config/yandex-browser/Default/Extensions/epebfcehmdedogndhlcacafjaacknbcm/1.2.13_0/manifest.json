@@ -1,0 +1,38 @@
+{
+   "author": "CryptoPro Ltd",
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "exclude_matches": [ "*://*.icloud.com/*" ],
+      "js": [ "content.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "content_security_policy": "script-src 'self'; object-src 'self'",
+   "description": "Расширение позволяет использовать КриптоПро ЭЦП Browser plug-in в браузере. Для работы требует установленного ЭЦП Browser plug-in.",
+   "developer": {
+      "name": "cryptopro"
+   },
+   "homepage_url": "https://www.cryptopro.ru/cadesplugin",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2MKVJtZSs7btLw8dIo3W5auMYdY8rGkCLtixrk3oxel0JBnmC385mWn5l+IlLPTIg6dkd+Yov4cPxq4G44i14w4+rL3kuvM++PhKoUL8DWNOxCytRruXsH19psDwFJgcqUAfgLxhycZCcpEuAEjl7Uo5L9w2tepiu0LGMJayUKAWNbYwko7pU2KW1HT7cBM98s1CtTZ5d/OXas0iYq7aMdEBhcPAnCBi0v11/uMBpFfWetuI4jVGyIYyKoSx24QxRVU2USEiu/fTULw6VgVXX3UX0RyPGN9Brx2AsbBxxpH6RYOFOaPTYePDqZ6dKxd0GZtcXXvcAAAZdcW4hmod/QIDAQAB",
+   "manifest_version": 2,
+   "name": "CryptoPro Extension for CAdES Browser Plug-in",
+   "page_action": {
+      "default_icon": {
+         "128": "icons/icon128.png",
+         "16": "icons/icon16.png",
+         "48": "icons/icon48.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "permissions": [ "nativeMessaging", "declarativeContent", "tabs" ],
+   "update_url": "https://extension-updates.opera.com/api/omaha/update/",
+   "version": "1.2.13",
+   "web_accessible_resources": [ "nmcades_plugin_api.js", "trusted_sites.html" ]
+}

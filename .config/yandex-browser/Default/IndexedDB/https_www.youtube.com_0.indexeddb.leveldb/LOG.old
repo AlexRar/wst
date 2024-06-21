@@ -1,0 +1,22 @@
+2024/06/19-17:29:16.724 5c4 File /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb is locked for recovering successfully
+2024/06/19-17:29:16.725 5c4 Reusing MANIFEST /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/19-17:29:16.725 5c4 Recovering log #3
+2024/06/19-17:29:16.744 5c4 Reusing old log /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2024/06/19-17:32:23.362 5c5 Level-0 table #5: started
+2024/06/19-17:32:23.402 5c5 Level-0 table #5: 1365578 bytes OK
+2024/06/19-17:32:23.412 5c5 Delete type=0 #3
+2024/06/19-17:49:24.555 5c4 Level-0 table #7: started
+2024/06/19-17:49:24.560 5c4 Level-0 table #7: 57115 bytes OK
+2024/06/19-17:49:24.567 5c4 Delete type=0 #4
+2024/06/19-17:49:24.567 5c4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/06/19-17:49:24.567 5c4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00@g\x02$\x03yB\x00\x03\x00\x00\x00\x00\x00\x80B@' @ 4402 : 1
+2024/06/19-17:49:24.567 5c4 Compacting 1@1 + 1@2 files
+2024/06/19-17:49:24.575 5c4 Generated table #8@1: 289 keys, 19554 bytes
+2024/06/19-17:49:24.575 5c4 Compacted 1@1 + 1@2 files => 19554 bytes
+2024/06/19-17:49:24.582 5c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/06/19-17:49:24.583 5c4 Delete type=2 #5
+2024/06/19-17:49:24.583 5c4 Delete type=2 #7
+2024/06/19-17:49:24.583 5c4 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00\xf0?\x03\x00@g\x02$\x03yB\x00\x03\x00\x00\x00\x00\x00\x80B@' @ 4402 : 1 .. (end); will stop at (end)
+2024/06/19-17:49:24.583 5c5 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb, waiting for background work finished
+2024/06/19-17:49:24.584 5c5 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb, background work finished
+2024/06/19-17:49:24.584 5c5 File /home/wst/.config/yandex-browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb unlocked successfully

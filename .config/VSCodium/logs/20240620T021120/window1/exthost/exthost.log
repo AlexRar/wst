@@ -1,0 +1,13 @@
+2024-06-20 02:11:22.242 [info] Extension host with pid 11915 started
+2024-06-20 02:11:22.377 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-06-20 02:11:22.391 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-20 02:11:22.506 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-06-20 02:11:23.041 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2024-06-20 02:11:23.057 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-06-20 02:11:23.073 [info] Eager extensions activated
+2024-06-20 02:11:23.078 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-06-20 02:11:23.081 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-06-20 02:12:22.529 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-06-20 02:12:22.574 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-06-20 02:13:50.785 [info] Extension host terminating: renderer closed the MessagePort
+2024-06-20 02:13:50.793 [info] Extension host with pid 11915 exiting with code 0

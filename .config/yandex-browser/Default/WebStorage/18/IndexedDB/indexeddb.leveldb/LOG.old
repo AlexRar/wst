@@ -1,0 +1,7 @@
+2024/06/19-17:38:12.653 5c4 File /home/wst/.config/yandex-browser/Default/WebStorage/18/IndexedDB/indexeddb.leveldb is locked for recovering successfully
+2024/06/19-17:38:12.653 5c4 Reusing MANIFEST /home/wst/.config/yandex-browser/Default/WebStorage/18/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/06/19-17:38:12.653 5c4 Recovering log #3
+2024/06/19-17:38:12.653 5c4 Reusing old log /home/wst/.config/yandex-browser/Default/WebStorage/18/IndexedDB/indexeddb.leveldb/000003.log 
+2024/06/19-17:38:36.586 5c6 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/WebStorage/18/IndexedDB/indexeddb.leveldb, waiting for background work finished
+2024/06/19-17:38:36.586 5c6 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/WebStorage/18/IndexedDB/indexeddb.leveldb, background work finished
+2024/06/19-17:38:36.586 5c6 File /home/wst/.config/yandex-browser/Default/WebStorage/18/IndexedDB/indexeddb.leveldb unlocked successfully

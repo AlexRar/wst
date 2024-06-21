@@ -1,0 +1,38 @@
+{
+   "accessAllowedTitle": {
+      "message": "Разрешен"
+   },
+   "accessDeniedTitle": {
+      "message": "Запрещен"
+   },
+   "appDesc": {
+      "message": "Расширение позволяет работать с файлами, криптографией и внешними компонентами 1С:Предприятия."
+   },
+   "appName": {
+      "message": "Расширение для работы с 1С:Предприятием"
+   },
+   "clearTitle": {
+      "message": "Очистить"
+   },
+   "filesystemField": {
+      "message": "Доступ к диску"
+   },
+   "mainHeader": {
+      "message": "Параметры расширения для работы с 1С:Предприятием"
+   },
+   "permissionsTableHeader": {
+      "message": "Сохраненные разрешения"
+   },
+   "removeSiteTitle": {
+      "message": "Удалить сайт"
+   },
+   "screenshotField": {
+      "message": "Доступ к снимку экрана"
+   },
+   "searchTitle": {
+      "message": "Поиск"
+   },
+   "siteField": {
+      "message": "Сайт"
+   }
+}

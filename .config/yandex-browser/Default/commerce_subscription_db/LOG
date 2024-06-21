@@ -1,0 +1,4 @@
+2024/06/21-02:25:03.493 97e File /home/wst/.config/yandex-browser/Default/commerce_subscription_db is locked for recovering successfully
+2024/06/21-02:25:03.494 97e Deletion DBImpl for /home/wst/.config/yandex-browser/Default/commerce_subscription_db, waiting for background work finished
+2024/06/21-02:25:03.494 97e Deletion DBImpl for /home/wst/.config/yandex-browser/Default/commerce_subscription_db, background work finished
+2024/06/21-02:25:03.494 97e File /home/wst/.config/yandex-browser/Default/commerce_subscription_db unlocked successfully

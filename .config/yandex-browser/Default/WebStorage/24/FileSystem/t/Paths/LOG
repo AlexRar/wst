@@ -1,0 +1,6 @@
+2024/06/21-01:49:46.558 6b7 File /home/wst/.config/yandex-browser/Default/WebStorage/24/FileSystem/t/Paths is locked for recovering successfully
+2024/06/21-01:49:46.559 6b7 Creating DB /home/wst/.config/yandex-browser/Default/WebStorage/24/FileSystem/t/Paths since it was missing.
+2024/06/21-01:49:46.570 6b7 Reusing MANIFEST /home/wst/.config/yandex-browser/Default/WebStorage/24/FileSystem/t/Paths/MANIFEST-000001
+2024/06/21-01:59:46.563 6b6 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/WebStorage/24/FileSystem/t/Paths, waiting for background work finished
+2024/06/21-01:59:46.563 6b6 Deletion DBImpl for /home/wst/.config/yandex-browser/Default/WebStorage/24/FileSystem/t/Paths, background work finished
+2024/06/21-01:59:46.563 6b6 File /home/wst/.config/yandex-browser/Default/WebStorage/24/FileSystem/t/Paths unlocked successfully
