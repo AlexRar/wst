@@ -14,7 +14,7 @@ polkit-gnome python-requests starship\
 swappy grim slurp pamixer brightnessctl gvfs\
 bluez bluez-utils lxappearance xfce4-settings\
 dracula-gtk-theme dracula-icons-git\ xdg-desktop-portal-hyprland-git\
-codium cava
+codium cava yandex-browser
 sudo pacman -S --noconfirm sddm base-devel gdb ninja gcc cmake libxcb xcb-proto xcb-util  
 xcb-util-keysyms libxfixes libx11 libxcomposite xorg-xinput libxrender  
 pixman wayland-protocols cairo pango seatd libxkbcommon xcb-util-wm  
@@ -49,5 +49,8 @@ git clone https://gitlab.com/prolinux410/owl_dots
 sudo cp -r -i ~/owl_dots/hyprland/hypr_arch/.config ~/.config
 
 git clone https://github.com/alexrar/wst.git
-cp ~/.config
+cp ~/wst/.zshrc ~/
+~/.zshrc setopt HIST_IGNORE_DUPS
+zsh
+sudo chsh -s /bin/zsh wst
 fi
