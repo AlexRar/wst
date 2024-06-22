@@ -48,9 +48,9 @@ git clone https://gitlab.com/prolinux410/owl_dots
 
 sudo cp -r -i ~/owl_dots/hyprland/hypr_arch/.config ~/.config
 
-git clone https://github.com/alexrar/wst.git
 cp ~/wst/.zshrc ~/
 ~/.zshrc setopt HIST_IGNORE_DUPS
 zsh
 sudo chsh -s /bin/zsh wst
 fi
+Hyprland
