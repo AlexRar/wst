@@ -5,7 +5,7 @@ sudo pacman -S --needed base-devel git
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
-
+cd ~/
 yay -S --noconfirm anydesk-bin\
 kitty\
 swaybg swaylock-effects wofi wlogout mako thunar\
@@ -31,12 +31,14 @@ git submodule update
 sudo make install  
   
 cp Hyprland/example/hyprland.conf ~/.config/hypr/
+cd ~/
 
 git clone https://github.com/hyprwm/hyprpaper  
 cd hyprpaper  
 make all  
   
 sudo cp ~/hyprpaper/build/hyprpaper /usr/bin
+cd ~/
 
 gsettings set org.gnome.desktop.interface icon-theme breeze-icons-dark  
 gsettings set org.gnome.desktop.interface gtk-theme Fantome
