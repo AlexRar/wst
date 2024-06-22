@@ -21,7 +21,7 @@ pixman wayland-protocols cairo pango seatd libxkbcommon xcb-util-wm
 xorg-xwayland cmake wlroots mesa git meson polkit pulseaudio pavucontrol telegram-desktop mousepad gimp inkscape  
 blender ghostscript obs-studio xdg-desktop-portal-wlr transmission-gtk python  
 imv mpv nemo grim slurp swaybg swaylock mako jq wofi htop cmus neofetch ranger unzip
-ttf-nerd-fonts-symbols
+ttf-nerd-fonts-symbols zsh
 
 
 git clone --recursive https://github.com/hyprwm/Hyprland  
@@ -48,4 +48,6 @@ git clone https://gitlab.com/prolinux410/owl_dots
 
 sudo cp -r -i ~/owl_dots/hyprland/hypr_arch/.config ~/.config
 
+git clone https://github.com/alexrar/wst.git
+cp ~/.config
 fi
